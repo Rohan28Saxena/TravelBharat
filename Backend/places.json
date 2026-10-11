@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Golden Temple",
+    "state": "Punjab",
+    "category": "Pilgrimage",
+    "description": "The holiest Gurdwara and the most important pilgrimage site of Sikhism, known for its gold-leafed dome.",
+    "bestTimeToVisit": "November to March",
+    "entryFee": "Free",
+    "imageUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1",
+    "nearbyAttractions": [
+      "Jallianwala Bagh",
+      "Wagah Border"
+    ]
+  },
+  {
+    "name": "Amer Fort",
+    "state": "Rajasthan",
+    "category": "Heritage",
+    "description": "A majestic hilltop fort overlooking Maota Lake, showcasing a beautiful fusion of Mughal and Rajput architecture.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "INR 100 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1599388836561-12c85b1a43a6",
+    "nearbyAttractions": [
+      "Jaigarh Fort",
+      "Jal Mahal"
+    ]
+  },
+  {
+    "name": "Hawa Mahal",
+    "state": "Rajasthan",
+    "category": "Heritage",
+    "description": "A five-storeyed honeycomb-shaped palace with 953 jharokha-style windows built for royal ladies.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "INR 50 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1599661555350-534a6639b7d3",
+    "nearbyAttractions": [
+      "City Palace",
+      "Jantar Mantar"
+    ]
+  },
+  {
+    "name": "Gateway of India",
+    "state": "Maharashtra",
+    "category": "Heritage",
+    "description": "An iconic arch monument built in the early 20th century, overlooking the Arabian Sea.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Free",
+    "imageUrl": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f",
+    "nearbyAttractions": [
+      "Elephanta Caves",
+      "Marine Drive"
+    ]
+  },
+  {
+    "name": "Mysore Palace",
+    "state": "Karnataka",
+    "category": "Heritage",
+    "description": "The historical official residence of the Wadiyar dynasty, known for its intricate architecture and grand illumination.",
+    "bestTimeToVisit": "October to February",
+    "entryFee": "INR 100 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1600095949179-8d83296a256a",
+    "nearbyAttractions": [
+      "Chamundi Hill",
+      "Brindavan Gardens"
+    ]
+  },
+  {
+    "name": "Meenakshi Temple",
+    "state": "Tamil Nadu",
+    "category": "Pilgrimage",
+    "description": "An ancient Hindu temple dedicated to Goddess Parvati and Lord Shiva, renowned for its colorful gopurams.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "Free",
+    "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220",
+    "nearbyAttractions": [
+      "Thirumalai Nayakkar Mahal",
+      "Gandhi Memorial Museum"
+    ]
+  },
+  {
+    "name": "Aguada Fort",
+    "state": "Goa",
+    "category": "Heritage",
+    "description": "A well-preserved seventeenth-century Portuguese fort and lighthouse standing on Sinquerim Beach.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "INR 25 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3",
+    "nearbyAttractions": [
+      "Sinquerim Beach",
+      "Candolim Beach"
+    ]
+  },
+  {
+    "name": "Kaziranga National Park",
+    "state": "Assam",
+    "category": "Wildlife",
+    "description": "A vast sanctuary that is home to two-thirds of the world's great one-horned rhinoceroses.",
+    "bestTimeToVisit": "November to April",
+    "entryFee": "INR 100 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1624806086934-2e9ea1605f13",
+    "nearbyAttractions": [
+      "Majuli Island",
+      "Tea Gardens of Jorhat"
+    ]
+  },
+  {
+    "name": "Statue of Unity",
+    "state": "Gujarat",
+    "category": "Monument",
+    "description": "The world's tallest statue, dedicated to the Iron Man of India, Sardar Vallabhbhai Patel.",
+    "bestTimeToVisit": "October to March",
+    "entryFee": "INR 150 for Indians",
+    "imageUrl": "https://images.unsplash.com/photo-1605130284535-11dd9eedc58a",
+    "nearbyAttractions": [
+      "Valley of Flowers",
+      "Sardar Sarovar Dam"
+    ]
+  }
+]
