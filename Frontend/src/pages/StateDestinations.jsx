@@ -12,7 +12,7 @@ const StateDestinations = () => {
       try {
         console.log("1. State clicked:", stateName);
         
-        const apiUrl = `http://localhost:5000/api/destinations?state=${encodeURIComponent(stateName)}`;
+        const apiUrl = `https://travelbharat-9fqt.onrender.com/api/destinations?state=${encodeURIComponent(stateName)}`;
         console.log("2. Fetching from URL:", apiUrl);
         
         const res = await axios.get(apiUrl);

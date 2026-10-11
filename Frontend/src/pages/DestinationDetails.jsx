@@ -9,7 +9,7 @@ const DestinationDetails = () => {
   useEffect(() => {
     const fetchDetail = async () => {
       try {
-        const res = await axios.get(`http://localhost:5000/api/destinations/${id}`);
+        const res = await axios.get(`https://travelbharat-9fqt.onrender.com/api/destinations/${id}`);
         setDest(res.data);
       } catch (error) {
         console.error("Error:", error);
